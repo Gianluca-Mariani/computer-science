@@ -129,7 +129,7 @@ This course will introduce you to the world of computer science and programming.
 
 Courses | Duration | Effort | Prerequisites | Discussion | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Introduction to Computer Science (CS50x)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) | 12 weeks | 6-18 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) |  | ✅
+[Introduction to Computer Science (CS50x)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) | 12 weeks | 6-18 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) |  | 10.01.2025 - 10.03.2025 (8.6 weeks)
 
 ## Core CS
 
@@ -152,8 +152,8 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 
 Courses | Duration | Effort | Prerequisites | Discussion | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm) | 
-[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314) | 
+[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm) | 10.03.2025 - 24.04.2025 (6.6 weeks) 
+[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314) | 25.04.2025 -
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN) | 
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9) | 
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA) | 
