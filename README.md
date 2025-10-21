@@ -154,9 +154,9 @@ Courses | Duration | Effort | Prerequisites | Discussion | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
 [Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm) | 10.03.2025 - 24.04.2025 (6.6 weeks) 
 [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [chat](https://discord.com/channels/744385009028431943/891411727294562314) | 25.04.2025 - 03.07.2025 (10 weeks)
-[Programming Languages](https://courses.cs.washington.edu/courses/cse341/19au/#lectures) | 11 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN) | 09.09.2025 -
+[Programming Languages](https://courses.cs.washington.edu/courses/cse341/19au/#lectures) | 11 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN) | 09.09.2025 - 21.10.2025 (6.1 weeks)
 [Object-Oriented Design](https://course.ccs.neu.edu/cs3500f19/) | 13 weeks | 5-10 hours/week | Class Based Program Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103) | 03.07.2025 - 08.09.2025 (9.7 weeks)
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788) | 
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Object Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412169638432788) | 21.10.2025 -
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
