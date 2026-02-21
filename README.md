@@ -234,7 +234,7 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 Courses | Duration | Effort | Prerequisites | Discussion | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
 [Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) ([alternative](https://www.algorithmsilluminated.org/)) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY) | 19.01.2026 - 28.01.2026 (1.4 weeks)
-[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | [chat](https://discord.gg/Qstqe4t) | 29.01.2026 - 
+[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | [chat](https://discord.gg/Qstqe4t) | 29.01.2026 - 21.02.2026 (3.4 weeks)
 
 ### Core security
 **Topics covered**
