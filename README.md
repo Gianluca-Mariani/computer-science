@@ -278,7 +278,7 @@ Courses | Duration | Effort | Prerequisites | Discussion | Completion
 
 Courses | Duration | Effort | Prerequisites | Discussion | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/pMFqNf4) | 
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/pMFqNf4) | 03.10.2026 - 04.10.2026 (0.3 weeks)
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/P8SPPyF) | 
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN) | 
 [Machine Learning](https://www.deeplearning.ai/courses/machine-learning-specialization/)| 11 weeks | 9 hours/week | Basic coding | [chat](https://discord.gg/NcXHDjy) | 22.02.2026 - 03.03.2026 (1.4 weeks)
