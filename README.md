@@ -280,7 +280,7 @@ Courses | Duration | Effort | Prerequisites | Discussion | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/pMFqNf4) | 03.10.2026 - 04.10.2026 (0.3 weeks)
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/P8SPPyF) | 
-[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN) | 
+[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN) | 05.10.2026 - 05.10.2026 (0.1 weeks)
 [Machine Learning](https://www.deeplearning.ai/courses/machine-learning-specialization/)| 11 weeks | 9 hours/week | Basic coding | [chat](https://discord.gg/NcXHDjy) | 22.02.2026 - 03.03.2026 (1.4 weeks)
 [Deep Learning](https://www.deeplearning.ai/courses/deep-learning-specialization/)| 11 weeks | 9 hours/week | Machine Learning |  | 04.03.2026 - 24.03.2026 (3.0 weeks)
 [Computer Graphics](https://www.edx.org/course/computer-graphics-2) ([alternative](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html))| 6 weeks | 12 hours/week | C++ or Java, linear algebra | [chat](https://discord.gg/68WqMNV) | 10.09.2026 - 27.09.2026 (2.6 weeks)
